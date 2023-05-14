@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0fff4,100:ffc0cb&text=BoyunChoi&fontColor=white&fontSize=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0fff4,100:ffc0cb&text=BoyunChoi&fontColor=white&fontSize=20)
   <br>
   
   👋 Welcome my github!
