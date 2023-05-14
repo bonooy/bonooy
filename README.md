@@ -1,11 +1,15 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0fff4,100:ffc0cb&text=BoyunChoi&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0fff4,100:ffc0cb&text=BoyunChoi&fontColor=white&fontSize=30)
+  <br>
   
   👋 Welcome my github!
+  <br>
+  <br>
   
   <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
-  
+  <br>
+ 
 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
